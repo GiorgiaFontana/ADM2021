@@ -1,3 +1,3 @@
 # ADM2021
-Repository for homeworks.
-This repo contains 
+1) ADM_homework_Fontana.ipynb contains the solutions of the exercises. In particular each cell contains an exercise.
+2) contains the PDF file with my HackerRank submissions.
